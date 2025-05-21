@@ -1,6 +1,7 @@
 # D-FLIPDLOP-NEGEDGE
-## Developed by: Naveenkumar M
-## Register Number: 212224230182
+## Developed by: Nijanth K
+
+## Register Number: 212224230186
 
 **AIM:**
 
